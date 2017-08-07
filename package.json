@@ -15,5 +15,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Pouk91.github.io/TicTacToe-React"
+  "homepage": "https://Pouk91.github.io/TicTacToe-React",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
 }
